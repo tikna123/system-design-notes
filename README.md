@@ -1,4 +1,4 @@
-# This repo contains all the system design related notes or docs
+# This repo contains all the system design related tips or notes
 
 ## System Design tips
 * Web server and cache server should be close to each other. So that it should not take much time for cache request.
